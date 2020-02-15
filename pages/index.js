@@ -24,8 +24,7 @@ const Home = () => {
   return (
     <div className="home">
       <Head>
-        <title>Home</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Paul&Ganesha</title>
       </Head>
       <Nav top={scrollTopPx} />
 
