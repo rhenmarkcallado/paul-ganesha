@@ -9,8 +9,11 @@
     "heroku-postbuild": "yarn build"
   },
   "dependencies": {
+    "@mdi/js": "^4.9.95",
+    "@mdi/react": "^1.3.0",
     "next": "9.2.1",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "react-typist": "^2.0.5"
   }
 }
